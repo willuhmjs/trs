@@ -30,7 +30,7 @@ A command-line utility to safely manage file deletion by using a trash folder in
 ### Arch Linux (AUR)
 
 ```bash
-yay -S trs
+yay -S trs-git
 ```
 
 ## Usage
